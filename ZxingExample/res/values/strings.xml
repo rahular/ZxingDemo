@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ScannerActivity!</string>
+    <string name="app_name">ZxingExample</string>
+    <string name="qr_scanner">QR Scanner</string>
+    <string name="scan_now">Scan Now!</string>
+
+</resources>
